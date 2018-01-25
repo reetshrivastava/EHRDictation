@@ -25,7 +25,7 @@ SECRET_KEY = '@507v3&c@8%@vg+h=_m=j0^30emimy*jv(md&2vhba&=qy@1c('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ehr-dictation.herokuapp.com']
 
 
 # Application definition
